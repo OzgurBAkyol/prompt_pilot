@@ -1,0 +1,16 @@
+ACME Teknoloji A.Ş., 2011 yılında İstanbul'da kurulmuş, yapay zeka ve veri analitiği alanında faaliyet gösteren bir teknoloji şirketidir. Şirketin CEO'su Ayşe Yılmaz, 2018 yılından beri bu görevde bulunmakta ve şirketin küresel vizyonunu genişletmekte önemli rol oynamaktadır.
+
+ACME’nin Genel Müdürlük binası İstanbul Ataşehir’dedir. Şirketin 3 ülkede toplam 5 ofisi bulunmaktadır: Türkiye (İstanbul, Ankara), Almanya (Berlin), Kanada (Toronto), ve Japonya (Tokyo). 2024 yılı itibariyle ACME’nin toplam çalışan sayısı 450’dir.
+
+ACME, 3 ana ürün üzerinden hizmet sunmaktadır:
+1. **DataMind**: Gerçek zamanlı veri işleme ve görselleştirme platformu. Özellikle bankacılık sektöründe kullanılmaktadır.
+2. **VisionAI**: Görüntü işleme ve analiz çözümleri sunan yapay zeka altyapısı. Savunma ve sağlık sektöründe yaygın olarak kullanılmaktadır.
+3. **AutoML Studio**: Kod yazmadan makine öğrenmesi modelleri geliştirmeyi sağlayan platform. Eğitim kurumları ve KOBİ’ler için tasarlanmıştır.
+
+Şirketin Ar-Ge çalışmaları TÜBİTAK desteklidir ve özellikle doğal dil işleme (NLP) üzerine yoğunlaşmaktadır. 2023 yılında, Türkçe dilinde geliştirilmiş en büyük açık kaynaklı dil modeli olan "ACME-NLP" duyurulmuştur. Bu model, özellikle kamu kurumları için belge sınıflandırma ve otomatik özetleme gibi alanlarda kullanılmaktadır.
+
+ACME Teknoloji'nin sürdürülebilirlik alanında da önemli çalışmaları vardır. 2022 yılında, enerji tüketimini %25 azaltan "Yeşil Sunucu" projesiyle uluslararası ödül kazanmıştır. Ayrıca 2025 hedefleri arasında karbon ayak izini sıfırlamak da bulunmaktadır.
+
+ACME’nin iş ortakları arasında Siemens, Aselsan ve Canadian AI Alliance gibi önemli kuruluşlar yer alır. Ayrıca, şirket Kanada’daki bir projede Toronto Üniversitesi ile ortak bir yapay zeka araştırması yürütmektedir.
+
+ACME'nin misyonu, veri ile güçlendirilmiş kararlar almayı mümkün kılan akıllı sistemler geliştirmek; vizyonu ise Orta Doğu ve Avrupa’nın en etkili yapay zeka şirketi olmaktır.
